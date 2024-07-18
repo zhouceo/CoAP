@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "utils_sha256.h": "c",
+        "unistd.h": "c"
+    }
+}

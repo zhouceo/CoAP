@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "utils_sha256.h": "c",
+        "unistd.h": "c",
+        "socket.h": "c",
+        "coap.h": "c"
+    }
+}
